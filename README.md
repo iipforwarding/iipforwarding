@@ -1,6 +1,6 @@
 <h2>👋 ¡Hola, soy AlexClient! 👋</h2>
 <br>
-<h2>🌐 Knowledge: Web Developing - Discord Developing - Discord Bot Developer - MineCraft Developer  🌐</h2>
+<h2>🥀 I'm a bot developer and minecraft server configurator and I really like listening to aesthetic music, I'm 17 years old 🥀</h2>
 <br>
 <br>
 <h2>🔥 Lenguages 🔥</h2>
