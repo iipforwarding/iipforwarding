@@ -1,6 +1,6 @@
 <h2>👋 ¡Hola, soy AlexClient! 👋</h2>
 <br>
-<h2>🥀 I'm a bot developer and minecraft server configurator and I really like listening to aesthetic music, I'm 17 years old 🥀</h2>
+<h2>🥀 soy un desarrollador de bots y configurador de  servidores de minecraft y me gusta mucho esuchar musica aesthetic, tengo 17 años 🥀</h2>
 <br>
 <br>
 <h2>🔥 Lenguages 🔥</h2>
