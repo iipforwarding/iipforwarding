@@ -1,6 +1,6 @@
 <h2>👋 ¡Hola, Soy AlexClient Bienvenido a mi Perfil u.u! 👋</h2>
 <br>
-<h2>🥀 soy un desarrollador de bots y configurador de  servidores de minecraft y me gusta mucho esuchar musica aesthetic, tengo 17 años 🥀</h2>
+<h2>🥀 Soy un Desarrollador de bots y Configurador de  Servidores de Minecraft y entre otras mas cosas.. Me gusta mucho esuchar musica aesthetic, Tengo 17 años 🥀</h2>
 <br>
 <br>
 <h2>🔥 Lenguages 🔥</h2>
