@@ -19,7 +19,7 @@
 - 📫 You can reach me by adding **Smug#6469 on [Discord](https://discord.gg/QUWbVVaXst)**
 
 
-[![SoyAlexClient#8346](https://discord.c99.nl/widget/theme-5/1002720317602545765.png)](https://discord.c99.nl/)
+[![SoyAlexClient#8346](https://discord.c99.nl/widget/theme-1/1002720317602545765.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
