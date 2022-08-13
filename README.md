@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Developing websites and creating discord bots**
 
-- 🌱 I’m currently learning **Python**, **HTML**, **JavaScript
+- 🌱 I’m currently learning **Python**, **HTML**, **JavaScript**
 
 - 👦 Staff: https://soyalexclient.ml
 
