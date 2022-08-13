@@ -30,4 +30,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="JavaScript" width="40" height="40"/>
+  </a>
 </a> </p>
