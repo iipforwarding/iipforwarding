@@ -27,6 +27,8 @@
 <p align="left">
 <a href="https://discord.gg/QUWbVVaXst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(https://discord.gg/QUWbVVaXst" height="30" width="40" /></a>
 <a href="https://youtube.com/c/AlexClient" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://youtube.com/c/AlexClient" height="30" width="40" />
+<a href="https://instagram.com/SoyAlexClient" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="https://instagram.com/SoyAlexClient" height="30" width="40" />
+</a>
 </a>
 </p>
 
