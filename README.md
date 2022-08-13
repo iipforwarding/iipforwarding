@@ -12,11 +12,13 @@
 
 - 🔭 I’m currently working on **Discord Mass Reporter**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **HTML**
+
+- 👦 Staff: https://soyalexclient.ml
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/AlexClient?tab=repositories) or [Discord](https://discord.gg/QUWbVVaXst)
 
-- 📫 You can reach me by adding **SoyAlexClient#8346 on [Discord](https://discord.gg/QUWbVVaXst)**
+- 📫 You can reach me by adding **Alex,,#1143 on [Discord](https://discord.gg/QUWbVVaXst)**
 
 
 [![SoyAlexClient#8346](https://discord.c99.nl/widget/theme-1/1002720317602545765.png)](https://discord.c99.nl/)
