@@ -18,9 +18,9 @@
 
 - 👦 Staff: https://soyalexclient.ml
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/AlexClient?tab=repositories) or [Discord](https://discord.gg/QUWbVVaXst)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AlexClient?tab=repositories) or [Discord](https://discord.gg/hEbVbsh9JR)
 
-- 📫 You can reach me by adding **Alex,,#1143 on [Discord](https://discord.gg/QUWbVVaXst)**
+- 📫 You can reach me by adding **Alex,,#1143 on [Discord](https://discord.gg/hEbVbsh9JR)**
 
 
 [![Alex,,#4048](https://discord.c99.nl/widget/theme-3/381816029426221057.png)](https://discord.c99.nl/)
