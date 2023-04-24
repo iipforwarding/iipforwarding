@@ -18,16 +18,16 @@
 
 - 👦 Staff: https://soyalexclient.ml
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/AlexClient?tab=repositories) or [Discord](https://discord.gg/hEbVbsh9JR)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AlexClient?tab=repositories) or [Discord](https://dsc.gg/alexclient)
 
-- 📫 You can reach me by adding **Alex,,#1143 on [Discord](https://discord.gg/hEbVbsh9JR)**
+- 📫 You can reach me by adding **Alex,,#1143 on [Discord](https://dsc.gg/alexclient)**
 
 
 [![Alex,,#4048](https://discord.c99.nl/widget/theme-3/381816029426221057.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/hEbVbsh9JR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(https://discord.gg/hEbVbsh9JR" height="30" width="40" /></a>
+<a href="https://dsc.gg/alexclient" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(https://dsc.gg/alexclient" height="30" width="40" /></a>
 <a href="https://youtube.com/c/AlexClient" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://youtube.com/c/AlexClient" height="30" width="40" />
 <a href="https://instagram.com/alexclient.01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="https://instagram.com/SoyAlexClient" height="30" width="40" />
 </a>
