@@ -23,7 +23,7 @@
 - 📫 You can reach me by adding **Alex,,#1143 on [Discord](https://discord.gg/QUWbVVaXst)**
 
 
-[![SoyAlexClient#8346](https://discord.c99.nl/widget/theme-4/1002720317602545765.png)](https://discord.c99.nl/)
+[![Alex,,#4048](https://discord.c99.nl/widget/theme-5/381816029426221057.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
