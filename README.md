@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Developing websites and creating discord bots**
 
-- 🌱 I’m currently learning **Python**, **HTML**, **JavaScript**, **PHP**, **Perl**, **Bash**, **C++**, **Java**, **CSS*...
+- 🌱 I’m currently learning **Python**, **HTML**, **JavaScript**, **PHP**, **Perl**, **Bash**, **C++**, **Java**, **CSS**...
 
 - 👦 Staff: https://soyalexclient.ml
 
