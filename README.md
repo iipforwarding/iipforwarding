@@ -23,7 +23,7 @@
 - 📫 You can reach me by adding **trashcodex on [Discord](https://dsc.gg/alexclient)** **Maintenance**
 
 
-[![trashcodex](https://discord.c99.nl/widget/theme-5/381816029426221057.png)]
+![trashcodex](https://discord.c99.nl/widget/theme-5/381816029426221057.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
