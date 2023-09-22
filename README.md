@@ -1,5 +1,4 @@
 <!-- https://github.com/AlexClient/ -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <h1 align="center">Hi 👋 I'm Whois</h1>
 <h3 align="center">I categorize myself as a programmer and a person who knows programming and I am part of the United States</h3>
